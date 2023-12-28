@@ -21,4 +21,3 @@ int ft_tolower(int c)
 	}
 	return (c);
 }
-//Esta función verifica si el carácter pasado como argumento está en mayúscula ('A' a 'Z') y, si es así, lo convierte a minúscula sumando 32 en su valor ASCII. Si no es una letra mayúscula, simplemente devuelve el mismo carácter.
